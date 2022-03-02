@@ -1,0 +1,43 @@
+body {
+    background: url("fondo.png");
+ 
+}
+html{
+   
+
+}
+
+.titulote{
+    font: size 70px;
+    text-align: center;
+}
+h1 { 
+    margin-left: 5px;
+    margin-right:auto;
+    font-size: 400%;
+    text-align: center;
+    color: brown;
+    font-family: "Homer Simpson UI";
+    font-weight: 900;
+
+}
+p { 
+    font-size: larger;
+    color: #FFFEFE;
+    text-align: center;
+    padding: 3px 10px;
+    border:brown 5px ridge;
+    border-radius: 20px 
+    
+         
+
+}
+img {
+    float: right;
+
+}
+
+  table {
+      color:#FFFEFE;
+      font-size: 150%;
+  }
