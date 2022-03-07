@@ -21,7 +21,7 @@ h1 {
     font-weight: 900;
 
 }
-p { 
+h6 { 
     font-size: larger;
     color: #FFFEFE;
     text-align: center;
@@ -33,7 +33,7 @@ p {
 
 }
 img {
-    float: right;
+    background-color: black;
 
 }
 
