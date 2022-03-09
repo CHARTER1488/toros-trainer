@@ -2,21 +2,18 @@ body {
     background: url("img/fondo.png");
  
 }
-html{
-   
-
-}
 
 .titulote{
     font: size 70px;
     text-align: center;
+
 }
 h1 { 
     margin-left: 5px;
     margin-right:auto;
     font-size: 400%;
     text-align: center;
-    color: brown;
+    color: rgb(202, 199, 199);
     font-family: "Homer Simpson UI";
     font-weight: 900;
 
@@ -32,11 +29,9 @@ h6 {
          
 
 }
-img {
-    
-}
+
 
   table {
-      color:#FFFEFE;
-      font-size: 150%;
-  }
+    color:#FFFEFE;
+    font-size: 150%;
+}
