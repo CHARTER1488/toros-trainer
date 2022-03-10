@@ -1,0 +1,12 @@
+body{
+    background: url("couch\ online.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:rgb(87, 86, 86);
+    text-align: center;
+    font-size: 300px;
+    font-family: "Homer Simpson UI";
+}
