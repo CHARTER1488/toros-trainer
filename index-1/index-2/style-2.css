@@ -1,17 +1,18 @@
 body{
-    background: url("fondo.png");
+    background: url("img/fondo.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-h1{
-    color:rgb(202, 199, 199);
-    text-align: center;
-    font-size: 300px;
-    font-family: "Homer Simpson UI";
-}
 
+
+
+h1{
+    text-align: center;
+    Color:rgb(202, 199, 199);
+    font-family: "Homer Simpson UI";
+
+}
 h5{
-       text-decoration: underline;
-    
-    }
+    text-decoration: underline;
+}

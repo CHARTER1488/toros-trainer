@@ -1,7 +1,9 @@
 body {
     background: url("img/fondo.png");
- 
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+ 
 
 .titulote{
     font: size 70px;
