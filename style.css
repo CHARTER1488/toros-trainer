@@ -1,9 +1,12 @@
+/*========FONDO========*/
+
 body {
     background: url("img/fondo.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
  
+/*========TITULO========*/
 
 .titulote{
     font: size 70px;
@@ -36,4 +39,12 @@ h6 {
   table {
     color:#FFFEFE;
     font-size: 150%;
+}
+
+/*========FOTOS-Y-TEXTO========*/
+
+#imagenes{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
